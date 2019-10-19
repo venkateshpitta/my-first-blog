@@ -1,2 +1,7 @@
 myenv/
-mysite/__pycache__/
+__pycache__/
+*~
+*.pyc
+db.sqlite3
+/static
+.DS_Store
